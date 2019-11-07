@@ -12,8 +12,7 @@ ommand_not_found_handle() {
                 export white='\033[1;37m'
                 export reset='\033[0m'
 
-echo -e "	           $cyan ♆⛧⸸⛦TERMUX⛦⸸⛧♆$reset"
-echo 
+echo -e "	          $cyan ♆⛧⸸⛦TERMUX⛦⸸⛧♆$reset" 
 echo -e "		   $red ┌∩┐(◣_◢)┌∩┐$reset"
 
 PS1='~>> $ '
